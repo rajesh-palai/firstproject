@@ -6,6 +6,6 @@ python
 django
 git
 
-
-
+javascript
+html
 thnk u
