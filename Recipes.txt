@@ -9,3 +9,5 @@ git
 javascript
 html
 thnk u
+
+Done my changes
